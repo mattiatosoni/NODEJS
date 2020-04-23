@@ -1,0 +1,16 @@
+{
+  "name": "esempio_expressexpress_static_files",
+  "version": "1.0.0",
+  "description": "miao",
+  "main": "app.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ng-bootstrap/ng-bootstrap": "^6.0.3",
+    "bootstrap": "^4.4.1",
+    "express": "^4.17.1"
+  }
+}
